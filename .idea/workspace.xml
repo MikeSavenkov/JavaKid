@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a091eb4-3a00-45af-b1b4-7dcd034da2e1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="5a091eb4-3a00-45af-b1b4-7dcd034da2e1" name="Default" comment="" />
     <ignored path="HelloWorld.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -50,8 +48,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="180">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -73,10 +71,10 @@
             <state relative-caret-position="-642">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1505918515000" expanded="true" signature="66789:66831" ph="..." />
-                <marker date="1505918515000" expanded="true" signature="66789:66849" ph="..." />
-                <marker date="1505918515000" expanded="true" signature="66789:66862" ph="..." />
-                <marker date="1505918515000" expanded="true" signature="66789:66877" ph="..." />
+                <marker date="1505918948000" expanded="true" signature="66791:66833" ph="..." />
+                <marker date="1505918948000" expanded="true" signature="66791:66851" ph="..." />
+                <marker date="1505918948000" expanded="true" signature="66791:66864" ph="..." />
+                <marker date="1505918948000" expanded="true" signature="66791:66879" ph="..." />
               </folding>
             </state>
           </provider>
@@ -192,11 +190,6 @@
             <path>
               <item name="JavaKid" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaKid" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaKid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaKid" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -204,12 +197,6 @@
               <item name="JavaKid" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ClassesAndObjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaKid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaKid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MyCalculator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaKid" type="b2602c69:ProjectViewProjectNode" />
@@ -788,16 +775,15 @@
       <workItem from="1504604091779" duration="48000" />
       <workItem from="1504604174097" duration="291000" />
       <workItem from="1504604534931" duration="314000" />
-      <workItem from="1505889654690" duration="6602000" />
+      <workItem from="1505889654690" duration="6698000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66720000" />
+    <option name="totallyTimeSpent" value="66816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1281" y="-105" width="1270" height="1075" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -812,7 +798,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32135308" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23371336" sideWeight="0.495671" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23371336" sideWeight="0.495671" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1192,10 +1178,10 @@
         <state relative-caret-position="-642">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1505918515000" expanded="true" signature="66789:66831" ph="..." />
-            <marker date="1505918515000" expanded="true" signature="66789:66849" ph="..." />
-            <marker date="1505918515000" expanded="true" signature="66789:66862" ph="..." />
-            <marker date="1505918515000" expanded="true" signature="66789:66877" ph="..." />
+            <marker date="1505918948000" expanded="true" signature="66791:66833" ph="..." />
+            <marker date="1505918948000" expanded="true" signature="66791:66851" ph="..." />
+            <marker date="1505918948000" expanded="true" signature="66791:66864" ph="..." />
+            <marker date="1505918948000" expanded="true" signature="66791:66879" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1210,8 +1196,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
         </state>
       </provider>
