@@ -50,8 +50,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="195">
+              <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -63,10 +63,10 @@
             <state relative-caret-position="195">
               <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
               <folding>
-                <marker date="1505996467000" expanded="true" signature="65521:65538" ph="..." />
-                <marker date="1505996467000" expanded="true" signature="65521:65556" ph="..." />
-                <marker date="1505996467000" expanded="true" signature="65521:65569" ph="..." />
-                <marker date="1505996467000" expanded="true" signature="65521:65584" ph="..." />
+                <marker date="1505996546000" expanded="true" signature="65531:65548" ph="..." />
+                <marker date="1505996546000" expanded="true" signature="65531:65566" ph="..." />
+                <marker date="1505996546000" expanded="true" signature="65531:65579" ph="..." />
+                <marker date="1505996546000" expanded="true" signature="65531:65594" ph="..." />
               </folding>
             </state>
           </provider>
@@ -767,12 +767,12 @@
       <workItem from="1504604091779" duration="48000" />
       <workItem from="1504604174097" duration="291000" />
       <workItem from="1504604534931" duration="314000" />
-      <workItem from="1505889654690" duration="9213000" />
+      <workItem from="1505889654690" duration="9405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69331000" />
+    <option name="totallyTimeSpent" value="69523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1281" y="-105" width="1270" height="774" extended-state="0" />
@@ -1179,18 +1179,18 @@
         <state relative-caret-position="195">
           <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
           <folding>
-            <marker date="1505996467000" expanded="true" signature="65521:65538" ph="..." />
-            <marker date="1505996467000" expanded="true" signature="65521:65556" ph="..." />
-            <marker date="1505996467000" expanded="true" signature="65521:65569" ph="..." />
-            <marker date="1505996467000" expanded="true" signature="65521:65584" ph="..." />
+            <marker date="1505996546000" expanded="true" signature="65531:65548" ph="..." />
+            <marker date="1505996546000" expanded="true" signature="65531:65566" ph="..." />
+            <marker date="1505996546000" expanded="true" signature="65531:65579" ph="..." />
+            <marker date="1505996546000" expanded="true" signature="65531:65594" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="195">
+          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
           <folding />
         </state>
       </provider>
