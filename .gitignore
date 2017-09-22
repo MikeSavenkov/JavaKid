@@ -8,8 +8,8 @@
 .idea/dictionaries
 
 src/ClassesAndObjects/
-src/deletePack/
-HelloWorld.java
+
+src/HelloWorld.java
 
 
 # Sensitive or high-churn files:
